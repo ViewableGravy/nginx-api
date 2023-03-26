@@ -1,0 +1,18 @@
+{
+  "name": "nginx-api",
+  "version": "1.0.0",
+  "description": "Microservice for modifying nginx configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nginx",
+    "api"
+  ],
+  "author": "L Morris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
